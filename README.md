@@ -1,11 +1,3 @@
-
-# Table of Contents
-
-1.  [complexjs](#org269451e)
-
-
-<a id="org269451e"></a>
-
 # complexjs
 
 This little script sees complex numbers as arrays with two
